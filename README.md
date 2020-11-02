@@ -1,4 +1,4 @@
-### Hi there, I'm Syukriatu; Zandri👋
+### Hi there, I'm Syukriatul Zandri👋
 
 ## I'm a Student of Putra Indonesia University ,Web Developer!
 
