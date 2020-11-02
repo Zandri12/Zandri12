@@ -1,6 +1,6 @@
 ### Hi there, I'm Syukriatu; Zandri👋
 
-## I'm a Student, Putra Indonesia University ,Web Developer!
+## I'm a Student Putra Indonesia University ,Web Developer!
 
 - 🔭 I’m currently Studying at UPI "YPTK"!
 - 🌱 I’m currently learning Laravel
