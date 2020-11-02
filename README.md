@@ -10,6 +10,9 @@
 
 ### Connect with me:
 
+## my trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zandri12)](https://github.com/Zandri12/github-profile-trophy)
 
 [<img align="left" alt="Zandri12 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Zandri12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
