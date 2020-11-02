@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Zandri12" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="Zandri12 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Zandri12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zandri12 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -124,8 +124,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[website]: https://sabesansathananthan.now.sh
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
+[twitter]: https://twitter.com/zandri120
+[facebook]: https://web.facebook.com/syukriatul.zandri.5/
 [instagram]: https://www.instagram.com/syukriatul.zandri
-[linkedin]: https://www.linkedin.com/in/sabesan96
+[linkedin]: https://www.linkedin.com/in/syukriatul-zandri-syukriatul-0853a6183
