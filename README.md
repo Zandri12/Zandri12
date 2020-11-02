@@ -1,49 +1,131 @@
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
-</p>
+### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] 👋
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
-</p>
+## I'm a Student, Undergraduate, Developer, and Physics Teacher!
 
-### Let's connect!
-<p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
-    <a href="https://www.linkedin.com/in/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://https://twitter.com/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
-   
-</p>
+- 🔭 I’m currently working on a my final year project!
+- 🌱 I’m currently learning Fullstack and Machine Learning
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play chess and listen music.
 
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+### Languages and Tools:
+
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
+[<code>
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>](https://reactjs.org/)
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescriptlang.org/)
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>](https://sass-lang.com/)
+[<code>
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>](https://www.json.org/json-en.html)
+[<code>
+<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</code>](https://eslint.org/)
+[<code>
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)
+[<code>
+<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+</code>](https://www.latex-project.org/)
+[<code>
+<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
+</code>](https://www.markdownguide.org/)
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)
+[<code>
+<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</code>](https://docs.microsoft.com/en-us/windows/terminal/)
+<br />
+[<code>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)
+[<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>](https://ubuntu.com/)
+[<code>
+<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+</code>](https://developer.apple.com/macos/)
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)
+
+---
+
+## 📝 Latest Blog Posts
+
+These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
+
+### Medium
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+### Dev Community
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+---
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+
+<a href="https://github.com/sabesansathananthan">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>
+
+---
+
+[website]: https://sabesansathananthan.now.sh
+[twitter]: https://twitter.com/TheSabesan
+[facebook]: https://www.facebook.com/sathananthan.sabesan
+[instagram]: https://www.instagram.com/s_sabesan
+[linkedin]: https://www.linkedin.com/in/sabesan96
