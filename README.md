@@ -78,22 +78,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
-
-### Medium
-
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
-### Dev Community
-
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
-
----
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/sabesansathananthan">
