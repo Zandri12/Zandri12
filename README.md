@@ -1,4 +1,4 @@
-### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] 👋
+### Hi there, I'm Syukriatu; Zandri - aka [Sabesan][website] 👋
 
 ## I'm a Student, Undergraduate, Developer, and Physics Teacher!
 
