@@ -10,7 +10,7 @@
 
 ## 🏆My trophy:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zandri12-ma&column=3&margin-w=15&margin-h=15)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zandri12)]
 
 ### Connect with me:
 
