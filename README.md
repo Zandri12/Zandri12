@@ -8,9 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cooking,basketball, and painting a portrait!
 
-## 🏆My trophy:
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Zandri12)
 
 ### Connect with me:
 
