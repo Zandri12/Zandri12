@@ -3,7 +3,7 @@
 ## I'm a Student of Putra Indonesia University ,Web Developer!
 
 - 🔭 I’m currently Studying at UPI "YPTK"!
-- 🌱 I’m currently learning Laravel and Yii
+- 🌱 I’m currently learning Laravel
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cooking,basketball, and painting a portrait!
 
